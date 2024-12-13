@@ -1,0 +1,70 @@
+* {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+td, th {
+  text-align: center;
+  padding: 5px;
+}
+
+thead, th {
+  background-color: darkblue;
+  font-weight: bold;
+}
+
+table{
+    color: deepskyblue;
+
+}
+
+h3 {
+    text-align: center;
+    color: purple;
+}
+
+.nome{
+    color: darkblue;
+    background-color: white;
+}
+
+.g0{
+    color: darkblue;
+    background-color: deepskyblue;
+}
+
+.g1{
+    color: greenyellow;
+    background-color: darkblue;
+}
+
+.g2{
+    color: deepskyblue;
+    background-color: darkblue;
+}
+
+.g3{
+    color: yellow;
+    background-color: darkblue;
+}
+
+.g4{
+    color: white;
+    background-color: darkblue;
+}
+
+.g5{
+    color: red;
+    background-color: darkblue;
+}
+
+td{
+    color: deepskyblue;
+    background-color: darkblue;
+}
